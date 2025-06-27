@@ -1,1 +1,2 @@
-1.0.5
+1.0.6
+https://github.com/delamis/eoe-game-client/releases/download/v1.0.6/EoeClientV1.zip
